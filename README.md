@@ -1,6 +1,6 @@
 # Halo, saya Irfan Sopandi 👋
 
-🎓 Mahasiswa Semester 5 Program Studi Sistem Informasi di Universitas BSI.
+🎓 Mahasiswa Semester 5 Program Studi Sistem Informasi di Universitas Bina Sarana Informatika.
 
 💻 Memiliki minat dalam pengembangan aplikasi web dan mobile, UI/UX Design, serta pengembangan sistem informasi.
 
