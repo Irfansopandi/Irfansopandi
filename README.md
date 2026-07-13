@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+Application+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=240&section=header&text=Welcome%20to%20my%20digital%20space.&fontSize=30&fontColor=ffffff&desc=Let's%20build%20something%20amazing%20together.&descSize=18&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Welcome%20to%20my%20digital%20space.&fontSize=32&fontColor=ffffff&desc=Let's%20build%20something%20amazing%20together.&descSize=16&descAlignY=62"/>
 </div>
 
 ---
