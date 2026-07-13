@@ -2,9 +2,9 @@
 
 # Halo, saya Irfan Sopandi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Laravel+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Fresh+Graduate+Information+Systems;Web+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Welcome%20To%20My%20Github&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -12,80 +12,127 @@
 
 ## 🙋 Tentang Saya
 
-🎓 Mahasiswa Sistem Informasi di Universitas Bina Sarana Informatika.
+🎓 Fresh Graduate Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
 
-💻 Memiliki minat dalam:
+💻 Memiliki minat pada:
 
 - Web Development
 - Mobile Development
 - UI/UX Design
 - System Analysis
-
-🚀 Saat ini sedang belajar:
-
-- Flutter
-- Laravel
 - AI & Automation
+
+🚀 Saat ini sedang mempelajari:
+
+- Flutter Development
+- Laravel Ecosystem
 - Cloud Computing
+- Artificial Intelligence & Agent Development
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,js,figma,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,js,figma,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🚀 Project Unggulan
+# 🚀 Project Unggulan
 
-### 🎵 Five Fest
+## 🎵 Five Fest
 
-Platform digital manajemen konser dan festival musik.
+Platform digital berbasis web untuk manajemen konser dan festival musik.
 
-**Fitur:**
+### Fitur:
 
+- Informasi konser dan festival musik
 - Pemesanan tiket event
-- Penjualan merchandise
-- Pendaftaran tenant
-- Spotify API Integration
-- Dashboard Admin
+- Penjualan merchandise resmi
+- Pendaftaran tenant UMKM
+- Pendaftaran vendor acara
+- Integrasi Spotify API
+- Dashboard admin
+- Sistem bantuan pelanggan
 
-**Tech:**
+### Teknologi:
 
-`Laravel` `PHP` `MySQL` `Midtrans` `Google OAuth`
+`Laravel`
+`PHP`
+`MySQL`
+`Midtrans`
+`Google OAuth`
+`Spotify API`
 
 ---
 
-### 🌍 SIGANA
+## 🌍 SIGANA
+### Sistem Informasi Tanggap Bencana dan Donasi
 
-Sistem Informasi Tanggap Bencana dan Donasi.
+Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan relawan.
 
-**Fitur:**
+### Fitur:
 
-- Pelaporan bencana
+- Pelaporan kejadian bencana
 - Donasi online
 - Manajemen relawan
 - Sertifikat relawan
-- Dashboard Admin
+- Dashboard admin
+- Sistem notifikasi
+- Manajemen kampanye sosial
+- Riwayat donasi
 
-**Tech:**
+### Teknologi:
 
-`Laravel` `Midtrans` `Google Login`
-`Notification System`
+`Laravel`
+`PHP`
+`MySQL`
+`Midtrans`
+`Google Login`
+`Bootstrap`
 
 ---
 
-## 📊 GitHub Statistics
+## 💰 Money Manager App
+
+Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
+
+### Fitur:
+
+- Login sederhana
+- Dashboard saldo
+- Pencatatan pemasukan
+- Pencatatan pengeluaran
+- Statistik kondisi keuangan
+- Riwayat transaksi
+- Dark Mode
+- Penyimpanan data lokal
+
+### Teknologi:
+
+`Flutter`
+`Dart`
+`Provider`
+`SharedPreferences`
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
 
 <p align="center">
 
@@ -95,7 +142,7 @@ Sistem Informasi Tanggap Bencana dan Donasi.
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophy
 
 <p align="center">
 
@@ -105,7 +152,7 @@ Sistem Informasi Tanggap Bencana dan Donasi.
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -115,7 +162,7 @@ Sistem Informasi Tanggap Bencana dan Donasi.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -131,6 +178,6 @@ Sistem Informasi Tanggap Bencana dan Donasi.
 
 ### ✨ Thanks for visiting my profile ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 
 </div>
