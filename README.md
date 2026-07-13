@@ -1,18 +1,21 @@
-# Irfan Sopandi
+﻿# Irfan Sopandi
 
-![Banner](assets/banner-thumb.svg)
+<!-- PREMIUM ANIMATED BANNER (Otomatis ganti Dark/Light Mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Premium Developer Profile Banner" src="assets/dark.svg" width="100%">
+</picture>
+
+<br/>
 
 ## 👋 About Me
 
-I'm a **5th-semester Information Systems student** passionate about crafting exceptional digital experiences through **web development** and **UI/UX design**. I specialize in building scalable, user-centered applications that solve real-world problems with clean code and intuitive interfaces.
+I'm a **5th-semester Information Systems student** passionate about crafting exceptional digital experiences through **web development** and **UI/UX design**[cite: 2]. I specialize in building scalable, user-centered applications that solve real-world problems with clean code and intuitive interfaces[cite: 2].
 
-🎯 **Current Focus**: Full-stack web development with Laravel & modern frontend technologies  
-📍 **Location**: Karawang, Indonesia  
-📧 **Email**: irfansopandi1212@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/irfansopandi](https://linkedin.com/in/irfansopandi)  
-🐦 **Twitter**: [twitter.com/irfansopandi](https://twitter.com/irfansopandi)
-
-![Profile](assets/profile.jpeg)
+🎯 **Current Focus**: Full-stack web development with Laravel & modern frontend technologies[cite: 2]  
+📍 **Location**: Karawang, Indonesia[cite: 2]  
+📧 **Email**: irfansopandi1212@gmail.com[cite: 2]  
 
 ---
 
@@ -41,77 +44,65 @@ I'm a **5th-semester Information Systems student** passionate about crafting exc
 ## 🌟 Featured Projects
 
 ### 🎵 Five Fest
-**Web Platform for Music Festival & Concert Management**  
+**Web Platform for Music Festival & Concert Management**[cite: 2]  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
-A comprehensive digital platform transforming how music events are managed and experienced.
+A comprehensive digital platform transforming how music events are managed and experienced[cite: 2].
 
-**Key Features:**
-- 🎫 **Ticketing System**: Secure online ticket purchases with Midtrans integration
-- 👕 **Merchandise Store**: Official event merchandise sales platform
-- 🏪 **UMKM Portal**: Tenant registration and management for local businesses
-- 🎪 **Vendor Management**: Streamlined vendor onboarding and coordination
-- 🎵 **Spotify Integration**: Artist discovery and playlist sharing via Spotify API
-- 👨‍💼 **Admin Dashboard**: Comprehensive event analytics and management controls
-- 💬 **Customer Support**: Integrated help system for attendee assistance
+* **🎫 Ticketing System**: Secure online ticket purchases with Midtrans integration[cite: 2]
+* **👕 Merchandise Store**: Official event merchandise sales platform[cite: 2]
+* **🏪 UMKM Portal**: Tenant registration and management for local businesses[cite: 2]
+* **🎪 Vendor Management**: Streamlined vendor onboarding and coordination[cite: 2]
+* **🎵 Spotify Integration**: Artist discovery and playlist sharing via Spotify API[cite: 2]
+* **👨‍💼 Admin Dashboard**: Comprehensive event analytics and management controls[cite: 2]
 
-**Impact**: Designed to serve 10,000+ annual festival attendees with 99.9% uptime target
+---
 
 ### 🆘 SIGANA
-**Disaster Response Information System & Donation Platform**  
+**Disaster Response Information System & Donation Platform**[cite: 2]  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
 
-A critical platform enabling efficient disaster management, donation tracking, and volunteer coordination.
+A critical platform enabling efficient disaster management, donation tracking, and volunteer coordination[cite: 2].
 
-**Core Capabilities:**
-- 📢 **Incident Reporting**: Real-time disaster event documentation and mapping
-- 💰 **Online Donations**: Secure payment processing with transparent fund allocation
-- 👥 **Volunteer Management**: Complete lifecycle from registration to certification
-- 📱 **Campaign Management**: Social initiative tracking and impact measurement
-- 🔔 **Notification System**: Multi-channel alerts for stakeholders and responders
-- 📊 **Admin Dashboard**: Real-time analytics and resource allocation tools
+* **📢 Incident Reporting**: Real-time disaster event documentation and mapping[cite: 2]
+* **💰 Online Donations**: Secure payment processing with transparent fund allocation[cite: 2]
+* **👥 Volunteer Management**: Complete lifecycle from registration to certification[cite: 2]
 
-**Social Impact**: Facilitates rapid response coordination and transparent humanitarian aid distribution
+---
 
 ### 💰 Money Manager App
-**Personal Finance Management Mobile Application**  
+**Personal Finance Management Mobile Application**[cite: 2]  
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]
 
-A intuitive mobile solution empowering users to take control of their financial wellbeing.
+An intuitive mobile solution empowering users to take control of their financial wellbeing[cite: 2].
 
-**Features:**
-- 💳 **Transaction Tracking**: Income and expense categorization with visual analytics
-- 📊 **Financial Dashboard**: Real-time balance overview and spending insights
-- 📈 **Reports & Statistics**: Monthly/yearly financial health assessments
-- 🔒 **Local Storage**: Secure offline data persistence with SharedPreferences
-- 🌓 **Dark Mode**: Eye-friendly interface for reduced strain during night usage
-- 🔐 **Secure Login**: Simple authentication with data privacy protection
-
-**User Benefit**: Promotes financial literacy and better money management habits
+* **💳 Transaction Tracking**: Income and expense categorization with visual analytics[cite: 2]
+* **📊 Financial Dashboard**: Real-time balance overview and spending insights[cite: 2]
+* **🌓 Dark Mode**: Eye-friendly interface for reduced strain during night usage[cite: 2]
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfansopandi&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfansopandi&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfansopandi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansopandi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects, discussing technology, or exploring new opportunities in web development and UI/UX design.
+I'm always open to collaborating on interesting projects, discussing technology, or exploring new opportunities in web development and UI/UX design[cite: 2].
 
-- **Open to**: Freelance projects, internships, collaborative open-source contributions
-- **Interested in**: Modern web applications, design systems, progressive web apps
-- **Currently learning**: Advanced React patterns, Tailwind CSS optimization, API design best practices
+* 🔗 **LinkedIn**: [linkedin.com/in/irfansopandi](https://linkedin.com/in/irfansopandi)[cite: 2]
+* 🐦 **Twitter**: [twitter.com/irfansopandi](https://twitter.com/irfansopandi)[cite: 2]
 
-💡 **Let's build something amazing together!** Feel free to reach out via email or connect with me on LinkedIn.
+💡 **Let's build something amazing together!**[cite: 2]
 
 ---
-
-*Last updated: July 2026*
+<p align="center"><i>Last updated: July 2026</i></p>
