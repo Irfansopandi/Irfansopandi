@@ -3,7 +3,7 @@
 <!-- Banner: dark + light SVGs -->
 <picture>
 	<source srcset="dark.svg" media="(prefers-color-scheme: dark)">
-	<img src="light.svg" alt="Irfan Sopandi - Banner" style="max-width:100%;border-radius:12px;"/>
+	<img src="assets/banner-thumb.svg" alt="Irfan Sopandi - Banner" style="max-width:100%;border-radius:12px;"/>
 </picture>
 
 ## Tentang Saya

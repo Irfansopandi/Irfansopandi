@@ -45,5 +45,11 @@
   <text x="560" y="335" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">Sistem tanggap bencana dan donasi</text>
   <text x="560" y="385" fill="#22d3ee" font-family="Segoe UI, Arial" font-size="18">• Money Manager App</text>
   <text x="560" y="415" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">Aplikasi mobile untuk mengatur keuangan</text>
-  <text x="560" y="500" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="15">Laravel • Flutter • PHP • MySQL • Figma</text>
+  <g transform="translate(520,480)">
+    <image href="assets/logos/laravel.svg" x="0" y="0" width="36" height="36"/>
+    <image href="assets/logos/flutter.svg" x="56" y="0" width="36" height="36"/>
+    <image href="assets/logos/php.svg" x="112" y="0" width="36" height="36"/>
+    <image href="assets/logos/mysql.svg" x="168" y="0" width="36" height="36"/>
+    <image href="assets/logos/figma.svg" x="224" y="0" width="36" height="36"/>
+  </g>
 </svg>
