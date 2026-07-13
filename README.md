@@ -2,7 +2,7 @@
 
 # Halo, saya Irfan Sopandi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Web+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+Application+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Welcome%20To%20My%20Github&fontSize=35&fontColor=ffffff"/>
 
