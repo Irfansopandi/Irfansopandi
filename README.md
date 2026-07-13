@@ -125,10 +125,6 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 
 <p align="center">
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 
@@ -144,9 +140,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi
 
 # 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Irfansopandi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+
 
 ---
 
