@@ -12,6 +12,8 @@ I'm a **5th-semester Information Systems student** passionate about crafting exc
 🔗 **LinkedIn**: [linkedin.com/in/irfansopandi](https://linkedin.com/in/irfansopandi)  
 🐦 **Twitter**: [twitter.com/irfansopandi](https://twitter.com/irfansopandi)
 
+![Profile](assets/profile.jpeg)
+
 ---
 
 ## 🛠️ Technical Skills
