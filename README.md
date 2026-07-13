@@ -1,108 +1,181 @@
-﻿# Irfan Sopandi
+<div align="center">
 
-<!-- PREMIUM ANIMATED BANNER (Otomatis ganti Dark/Light Mode) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Premium Developer Profile Banner" src="assets/dark.svg" width="100%">
-</picture>
+# Halo, saya Irfan Sopandi 👋
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Fresh+Graduate+Information+Systems;Web+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Welcome%20To%20My%20Github&fontSize=35&fontColor=ffffff"/>
 
-I'm a **5th-semester Information Systems student** passionate about crafting exceptional digital experiences through **web development** and **UI/UX design**[cite: 2]. I specialize in building scalable, user-centered applications that solve real-world problems with clean code and intuitive interfaces[cite: 2].
-
-🎯 **Current Focus**: Full-stack web development with Laravel & modern frontend technologies[cite: 2]  
-📍 **Location**: Karawang, Indonesia[cite: 2]  
-📧 **Email**: irfansopandi1212@gmail.com[cite: 2]  
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🙋 Tentang Saya
 
-### **Web Development**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+🎓 Fresh Graduate Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+💻 Memiliki minat pada:
 
-### **Design & Tools**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- Web Development
+- Mobile Development
+- UI/UX Design
+- System Analysis
+- AI & Automation
 
----
+🚀 Saat ini sedang mempelajari:
 
-## 🌟 Featured Projects
-
-### 🎵 Five Fest
-**Web Platform for Music Festival & Concert Management**[cite: 2]  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-
-A comprehensive digital platform transforming how music events are managed and experienced[cite: 2].
-
-* **🎫 Ticketing System**: Secure online ticket purchases with Midtrans integration[cite: 2]
-* **👕 Merchandise Store**: Official event merchandise sales platform[cite: 2]
-* **🏪 UMKM Portal**: Tenant registration and management for local businesses[cite: 2]
-* **🎪 Vendor Management**: Streamlined vendor onboarding and coordination[cite: 2]
-* **🎵 Spotify Integration**: Artist discovery and playlist sharing via Spotify API[cite: 2]
-* **👨‍💼 Admin Dashboard**: Comprehensive event analytics and management controls[cite: 2]
+- Flutter Development
+- Laravel Ecosystem
+- Cloud Computing
+- Artificial Intelligence & Agent Development
 
 ---
 
-### 🆘 SIGANA
-**Disaster Response Information System & Donation Platform**[cite: 2]  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
+## 🛠 Tech Stack
 
-A critical platform enabling efficient disaster management, donation tracking, and volunteer coordination[cite: 2].
+<p align="center">
 
-* **📢 Incident Reporting**: Real-time disaster event documentation and mapping[cite: 2]
-* **💰 Online Donations**: Secure payment processing with transparent fund allocation[cite: 2]
-* **👥 Volunteer Management**: Complete lifecycle from registration to certification[cite: 2]
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,js,figma,git,github,vscode"/>
 
----
-
-### 💰 Money Manager App
-**Personal Finance Management Mobile Application**[cite: 2]  
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]
-
-An intuitive mobile solution empowering users to take control of their financial wellbeing[cite: 2].
-
-* **💳 Transaction Tracking**: Income and expense categorization with visual analytics[cite: 2]
-* **📊 Financial Dashboard**: Real-time balance overview and spending insights[cite: 2]
-* **🌓 Dark Mode**: Eye-friendly interface for reduced strain during night usage[cite: 2]
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfansopandi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansopandi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 Project Unggulan
 
-I'm always open to collaborating on interesting projects, discussing technology, or exploring new opportunities in web development and UI/UX design[cite: 2].
+## 🎵 Five Fest
 
-* 🔗 **LinkedIn**: [linkedin.com/in/irfansopandi](https://linkedin.com/in/irfansopandi)[cite: 2]
-* 🐦 **Twitter**: [twitter.com/irfansopandi](https://twitter.com/irfansopandi)[cite: 2]
+Platform digital berbasis web untuk manajemen konser dan festival musik.
 
-💡 **Let's build something amazing together!**[cite: 2]
+### Fitur:
+
+- Informasi konser dan festival musik
+- Pemesanan tiket event
+- Penjualan merchandise resmi
+- Pendaftaran tenant UMKM
+- Pendaftaran vendor acara
+- Integrasi Spotify API
+- Dashboard admin
+- Sistem bantuan pelanggan
+
+### Teknologi:
+
+`Laravel`
+`PHP`
+`MySQL`
+`Midtrans`
+`Google OAuth`
+`Spotify API`
 
 ---
-<p align="center"><i>Last updated: July 2026</i></p>
+
+## 🌍 SIGANA
+### Sistem Informasi Tanggap Bencana dan Donasi
+
+Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan relawan.
+
+### Fitur:
+
+- Pelaporan kejadian bencana
+- Donasi online
+- Manajemen relawan
+- Sertifikat relawan
+- Dashboard admin
+- Sistem notifikasi
+- Manajemen kampanye sosial
+- Riwayat donasi
+
+### Teknologi:
+
+`Laravel`
+`PHP`
+`MySQL`
+`Midtrans`
+`Google Login`
+`Bootstrap`
+
+---
+
+## 💰 Money Manager App
+
+Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
+
+### Fitur:
+
+- Login sederhana
+- Dashboard saldo
+- Pencatatan pemasukan
+- Pencatatan pengeluaran
+- Statistik kondisi keuangan
+- Riwayat transaksi
+- Dark Mode
+- Penyimpanan data lokal
+
+### Teknologi:
+
+`Flutter`
+`Dart`
+`Provider`
+`SharedPreferences`
+
+---
+
+# 📊 GitHub Statistics
+
+
+<p align="center">
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfansopandi&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Irfansopandi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfansopandi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Irfansopandi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+
+</div>
