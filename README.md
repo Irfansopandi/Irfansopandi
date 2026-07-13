@@ -24,7 +24,7 @@
 
 🚀 Saat ini sedang mempelajari:
 
-- Flutter Development
+- Mobile Application Developer
 - Laravel Ecosystem
 - Cloud Computing
 - Artificial Intelligence & Agent Development
