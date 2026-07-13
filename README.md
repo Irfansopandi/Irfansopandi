@@ -1,53 +1,52 @@
-<div align="center">
+﻿# Irfan Sopandi
 
-# Halo, saya Irfan Sopandi 👋
+<!-- Banner: dark + light SVGs -->
+<picture>
+	<source srcset="dark.svg" media="(prefers-color-scheme: dark)">
+	<img src="light.svg" alt="Irfan Sopandi - Banner" style="max-width:100%;border-radius:12px;"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Fresh+Graduate+Information+Systems;Web+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
+## Tentang Saya
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Welcome%20To%20My%20Github&fontSize=35&fontColor=ffffff"/>
+Saya adalah mahasiswa Sistem Informasi semester 5 yang fokus pada pengembangan web, mobile, dan desain UI/UX. Saya senang membangun solusi digital yang fungsional, modern, dan mudah digunakan.
 
-</div>
+### Informasi Singkat
 
----
+- Lokasi: Karawang, Indonesia
+- Pendidikan: Mahasiswa Sistem Informasi - Semester 5
+- Fokus: Web Developer
+- Email: irfansopandi1212@gmail.com
 
-## 🙋 Tentang Saya
+## Keahlian
 
-🎓 Fresh Graduate Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
+### Web Development
 
-💻 Memiliki minat pada:
+- PHP
+- Laravel
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-- Web Development
-- Mobile Development
-- UI/UX Design
-- System Analysis
-- AI & Automation
+### Mobile Development
 
-🚀 Saat ini sedang mempelajari:
+- Flutter
+- Dart
 
-- Flutter Development
-- Laravel Ecosystem
-- Cloud Computing
-- Artificial Intelligence & Agent Development
+### Design & Tools
 
----
+- Figma
+- Git
+- GitHub
+- VS Code
 
-## 🛠 Tech Stack
+## Project Unggulan
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,js,figma,git,github,vscode"/>
-
-</p>
-
----
-
-# 🚀 Project Unggulan
-
-## 🎵 Five Fest
+### 🚀 Five Fest
 
 Platform digital berbasis web untuk manajemen konser dan festival musik.
 
-### Fitur:
+**Fitur:**
 
 - Informasi konser dan festival musik
 - Pemesanan tiket event
@@ -58,23 +57,20 @@ Platform digital berbasis web untuk manajemen konser dan festival musik.
 - Dashboard admin
 - Sistem bantuan pelanggan
 
-### Teknologi:
+**Teknologi:**
 
-`Laravel`
-`PHP`
-`MySQL`
-`Midtrans`
-`Google OAuth`
-`Spotify API`
+- Laravel
+- PHP
+- MySQL
+- Midtrans
+- Google OAuth
+- Spotify API
 
----
+### 🌍 SIGANA
 
-## 🌍 SIGANA
-### Sistem Informasi Tanggap Bencana dan Donasi
+Sistem Informasi Tanggap Bencana dan Donasi adalah platform berbasis web yang membantu pengelolaan informasi bencana, donasi, dan relawan.
 
-Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan relawan.
-
-### Fitur:
+**Fitur:**
 
 - Pelaporan kejadian bencana
 - Donasi online
@@ -85,22 +81,20 @@ Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan 
 - Manajemen kampanye sosial
 - Riwayat donasi
 
-### Teknologi:
+**Teknologi:**
 
-`Laravel`
-`PHP`
-`MySQL`
-`Midtrans`
-`Google Login`
-`Bootstrap`
+- Laravel
+- PHP
+- MySQL
+- Midtrans
+- Google Login
+- Bootstrap
 
----
-
-## 💰 Money Manager App
+### 💰 Money Manager App
 
 Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 
-### Fitur:
+**Fitur:**
 
 - Login sederhana
 - Dashboard saldo
@@ -111,71 +105,16 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 - Dark Mode
 - Penyimpanan data lokal
 
-### Teknologi:
+**Teknologi:**
 
-`Flutter`
-`Dart`
-`Provider`
-`SharedPreferences`
+- Flutter
+- Dart
+- Provider
+- SharedPreferences
 
----
+## Hubungi Saya
 
-# 📊 GitHub Statistics
-
-
-<p align="center">
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfansopandi&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Irfansopandi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfansopandi&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Irfansopandi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</div>
+- GitHub: https://github.com/irfansopandi
+- LinkedIn: https://linkedin.com/in/irfansopandi
+- Twitter: https://twitter.com/irfansopandi
+- Email: irfansopandi1212@gmail.com
