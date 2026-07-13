@@ -1,87 +1,136 @@
+<div align="center">
+
 # Halo, saya Irfan Sopandi 👋
 
-🎓 Mahasiswa Semester 5 Program Studi Sistem Informasi di Universitas Bina Sarana Informatika.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Laravel+Developer;Flutter+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
-💻 Memiliki minat dalam pengembangan aplikasi web dan mobile, UI/UX Design, serta pengembangan sistem informasi.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff" />
 
-## 🚀 Project Unggulan
-
-### 🎫 Five Fest
-Platform digital berbasis web untuk manajemen konser dan festival musik yang menyediakan:
-
-- Informasi konser dan festival musik
-- Pemesanan tiket event
-- Penjualan merchandise resmi
-- Pendaftaran tenant UMKM
-- Pendaftaran vendor atau penyelenggara acara
-- Integrasi musik melalui Spotify API
-- Sistem bantuan pelanggan dan pengelolaan data event
-
-**Teknologi yang digunakan:**  
-`Laravel` • `PHP` • `MySQL` • `Midtrans API` • `Google OAuth` • `Spotify API` • `SMTP Mail`
+</div>
 
 ---
 
-### 🌊 SIGANA (Sistem Informasi Tanggap Bencana dan Donasi)
+## 🙋 Tentang Saya
 
-Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan relawan.
+🎓 Mahasiswa Sistem Informasi di Universitas Bina Sarana Informatika.
 
-Fitur utama:
-- Pelaporan kejadian bencana
-- Donasi online
-- Manajemen relawan
-- Sertifikat relawan
-- Dashboard admin
-- Notifikasi email
+💻 Memiliki minat dalam:
 
-**Teknologi yang digunakan:**  
-`Laravel` • `PHP` • `MySQL` • `Midtrans API` • `Google OAuth` • `SMTP Mail`
+- Web Development
+- Mobile Development
+- UI/UX Design
+- System Analysis
 
----
+🚀 Saat ini sedang belajar:
 
-### 💰 Money Manager
-Aplikasi manajemen keuangan berbasis Flutter yang membantu pengguna dalam mengelola kondisi keuangan pribadi.
-
-Fitur utama:
-- Pencatatan pemasukan dan pengeluaran
-- Statistik dan visualisasi keuangan
-- Riwayat transaksi dan pencarian data
-- Pengaturan mata uang dan target tabungan
-- Backup dan restore data
-- Penyimpanan lokal menggunakan Hive dan SharedPreferences
-
-**Teknologi yang digunakan:**  
-`Flutter` • `Dart` • `Hive` • `Provider` • `SharedPreferences`
+- Flutter
+- Laravel
+- AI & Automation
+- Cloud Computing
 
 ---
 
 ## 🛠 Tech Stack
 
-### Front-End
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Backend
-- PHP
-- Laravel
-- MySQL
-
-### Mobile Development
-- Flutter
-- Dart
-
-### Design
-- Figma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,js,figma,git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Saat Ini Saya Sedang Belajar
+## 🚀 Project Unggulan
 
-- Pengembangan aplikasi mobile menggunakan Flutter
-- Integrasi API pada aplikasi web dan mobile
-- Clean Architecture dan manajemen state
-- Peningkatan kemampuan UI/UX Design
-- Pengembangan sistem menggunakan Laravel
-- Implementasi fitur pembayaran dan autentikasi pihak ketiga
+### 🎵 Five Fest
+
+Platform digital manajemen konser dan festival musik.
+
+**Fitur:**
+
+- Pemesanan tiket event
+- Penjualan merchandise
+- Pendaftaran tenant
+- Spotify API Integration
+- Dashboard Admin
+
+**Tech:**
+
+`Laravel` `PHP` `MySQL` `Midtrans` `Google OAuth`
+
+---
+
+### 🌍 SIGANA
+
+Sistem Informasi Tanggap Bencana dan Donasi.
+
+**Fitur:**
+
+- Pelaporan bencana
+- Donasi online
+- Manajemen relawan
+- Sertifikat relawan
+- Dashboard Admin
+
+**Tech:**
+
+`Laravel` `Midtrans` `Google Login`
+`Notification System`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Irfansopandi&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfansopandi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfansopandi&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Irfansopandi&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfansopandi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Irfansopandi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
