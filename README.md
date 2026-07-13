@@ -12,7 +12,7 @@
 
 ## 🙋 Tentang Saya
 
-🎓 Fresh Graduate Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
+🎓 Mahasiswa Semester 5 Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
 
 💻 Memiliki minat pada:
 
@@ -122,14 +122,6 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 
 # 📊 GitHub Statistics
 
-
-<p align="center">
-<img height="170em"
-</p>
-
-
----
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfansopandi&theme=tokyonight"/>
@@ -139,10 +131,6 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 ---
 
 # 🏆 GitHub Trophy
-
-
-
----
 
 # 📈 Contribution Graph
 
