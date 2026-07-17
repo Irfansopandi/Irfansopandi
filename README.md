@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Irfan Sopandi 👋
+# Hello, I am Irfan Sopand. 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+Application+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
@@ -8,27 +8,34 @@
 </div>
 
 ---
+## About Me
 
-## 🙋 Tentang Saya
+I am an active 5th-semester Information Systems student at Universitas Bina Sarana Informatika with a strong interest in software development and digital technology. I have experience and knowledge in building web and mobile applications using technologies such as HTML, CSS, JavaScript, PHP, Laravel, MySQL, and Flutter.
 
-🎓 Mahasiswa Semester 5 Program Studi Sistem Informasi Universitas Bina Sarana Informatika.
+I am passionate about learning new technologies, developing innovative solutions, and improving my skills in system analysis, application development, UI/UX design, cloud computing, and artificial intelligence. I am a responsible, detail-oriented, adaptable person who can work effectively both independently and collaboratively in a team.
 
-💻 Memiliki minat pada:
+💻 Passionate about building digital solutions and exploring technology, with interests in:
 
 - Web Development
-- Mobile Development
+- Mobile Application Development
 - UI/UX Design
-- System Analysis
-- AI & Automation
-
-🚀 Saat ini sedang mempelajari:
-
-- Mobile Application Developer
-- Laravel Ecosystem
+- System Analysis and Design
+- Artificial Intelligence & Automation
 - Cloud Computing
-- Artificial Intelligence & Agent Development
+
+🚀 Currently expanding my skills in:
+
+- Mobile Application Development using Flutter & Dart
+- Laravel Framework and Backend Development
+- Cloud Technology and Deployment
+- Artificial Intelligence and AI Agent Development
 
 ---
+
+✨ I enjoy transforming ideas into functional applications, designing user-friendly interfaces, and continuously learning new technologies to improve my development skills.
+
+🎯 My goal is to become a professional software developer who can create innovative, scalable, and impactful technology solutions.
+
 
 ## 🛠 Tech Stack
 
