@@ -16,7 +16,7 @@ I am passionate about learning new technologies, developing innovative solutions
 
 ---
 
-💻 Passionate about building digital solutions and exploring technology, with interests in:
+## 💻 Passionate about building digital solutions and exploring technology, with interests in:
 
 - Web Development
 - Mobile Application Development
@@ -25,7 +25,7 @@ I am passionate about learning new technologies, developing innovative solutions
 - Artificial Intelligence & Automation
 - Cloud Computing
 
-🚀 Currently expanding my skills in:
+## 🚀 Currently expanding my skills in:
 
 - Mobile Application Development using Flutter & Dart
 - Laravel Framework and Backend Development
@@ -47,24 +47,24 @@ I am passionate about learning new technologies, developing innovative solutions
 
 ---
 
-# 🚀 Project Unggulan
+# 🚀 Featured Projects
 
 ## 🎵 Five Fest
 
-Platform digital berbasis web untuk manajemen konser dan festival musik.
+A web-based digital platform designed to manage music concerts and festival events. This platform provides an integrated system for event information, ticket transactions, merchandise sales, and event management.
 
-### Fitur:
+### Features:
 
-- Informasi konser dan festival musik
-- Pemesanan tiket event
-- Penjualan merchandise resmi
-- Pendaftaran tenant UMKM
-- Pendaftaran vendor acara
-- Integrasi Spotify API
-- Dashboard admin
-- Sistem bantuan pelanggan
+- Concert and music festival information
+- Online event ticket booking
+- Official merchandise marketplace
+- UMKM tenant registration
+- Event vendor registration
+- Spotify API integration
+- Admin dashboard management
+- Customer support system
 
-### Teknologi:
+### Technologies:
 
 `Laravel`
 `PHP`
@@ -76,22 +76,22 @@ Platform digital berbasis web untuk manajemen konser dan festival musik.
 ---
 
 ## 🌍 SIGANA
-### Sistem Informasi Tanggap Bencana dan Donasi
+### Disaster Response and Donation Information System
 
-Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan relawan.
+A web-based information system developed to support disaster management, donation activities, and volunteer coordination through an integrated digital platform.
 
-### Fitur:
+### Features:
 
-- Pelaporan kejadian bencana
-- Donasi online
-- Manajemen relawan
-- Sertifikat relawan
-- Dashboard admin
-- Sistem notifikasi
-- Manajemen kampanye sosial
-- Riwayat donasi
+- Disaster incident reporting
+- Online donation system
+- Volunteer management
+- Volunteer certificate generation
+- Admin dashboard
+- Notification system
+- Social campaign management
+- Donation history tracking
 
-### Teknologi:
+### Technologies:
 
 `Laravel`
 `PHP`
@@ -104,20 +104,20 @@ Platform berbasis web untuk membantu pengelolaan informasi bencana, donasi, dan 
 
 ## 💰 Money Manager App
 
-Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
+A mobile application designed to help users manage personal finances by recording income, expenses, and monitoring financial activities.
 
-### Fitur:
+### Features:
 
-- Login sederhana
-- Dashboard saldo
-- Pencatatan pemasukan
-- Pencatatan pengeluaran
-- Statistik kondisi keuangan
-- Riwayat transaksi
-- Dark Mode
-- Penyimpanan data lokal
+- Simple authentication system
+- Balance dashboard
+- Income tracking
+- Expense tracking
+- Financial statistics
+- Transaction history
+- Dark mode support
+- Local data storage
 
-### Teknologi:
+### Technologies:
 
 `Flutter`
 `Dart`
@@ -148,17 +148,6 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Irfansopandi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
 
 ✨ I enjoy transforming ideas into functional applications, designing user-friendly interfaces, and continuously learning new technologies to improve my development skills.
 
