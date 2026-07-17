@@ -16,7 +16,7 @@ I am passionate about learning new technologies, developing innovative solutions
 
 ---
 
-## 💻 Passionate about building digital solutions and exploring technology, with interests in:
+## 💻 Interested in:
 
 - Web Development
 - Mobile Application Development
