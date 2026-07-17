@@ -14,6 +14,8 @@ I am an active 5th-semester Information Systems student at Universitas Bina Sara
 
 I am passionate about learning new technologies, developing innovative solutions, and improving my skills in system analysis, application development, UI/UX design, cloud computing, and artificial intelligence. I am a responsible, detail-oriented, adaptable person who can work effectively both independently and collaboratively in a team.
 
+---
+
 💻 Passionate about building digital solutions and exploring technology, with interests in:
 
 - Web Development
@@ -32,9 +34,7 @@ I am passionate about learning new technologies, developing innovative solutions
 
 ---
 
-✨ I enjoy transforming ideas into functional applications, designing user-friendly interfaces, and continuously learning new technologies to improve my development skills.
 
-🎯 My goal is to become a professional software developer who can create innovative, scalable, and impactful technology solutions.
 
 
 ## 🛠 Tech Stack
@@ -157,6 +157,12 @@ Aplikasi mobile untuk membantu pengguna mengelola keuangan pribadi.
 </a>
 
 </p>
+
+---
+
+✨ I enjoy transforming ideas into functional applications, designing user-friendly interfaces, and continuously learning new technologies to improve my development skills.
+
+🎯 My goal is to become a professional software developer who can create innovative, scalable, and impactful technology solutions.
 
 ---
 
